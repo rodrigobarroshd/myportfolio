@@ -1,6 +1,6 @@
 secreto = input( 'Qual palavra estará na forca? ')
 digitadas = []
-chances = 2
+chances = 3
 
 while True:
     if chances <= 0:
@@ -17,9 +17,9 @@ while True:
     print(digitadas)
     
     if letra in secreto:
-        print(f'WoooW, a letra {letra} existe na palavra secreta')
+        print(f'Parabéns, a letra {letra} existe na palavra secreta')
     else:
-        print(f'Aff, a letra {letra} não existe na palavra secreta')
+        print(f'Que pena :(, a letra {letra} não existe na palavra secreta')
         digitadas.pop()
         
     secreto_temporario = ''
