@@ -30,7 +30,7 @@ while True:
             secreto_temporario += '*'
             
     if secreto_temporario == secreto:
-        print(f' WOOOOOWW, Você acaba de ganhar!!!! A palavra era "{secreto_temporario}" !!')
+        print(f' WOOOOOWW, Parabéns, Você acaba de ganhar!!!! A palavra secreta era "{secreto_temporario}" !!')
         break
     else:
         print(f'A palavra secreta está assim: {secreto_temporario}')
