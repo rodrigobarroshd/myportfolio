@@ -1,6 +1,9 @@
 """
 CPF = 168.995.350-09
 ------------------------------------------------
+
+Fórmula 
+
 1 * 10 = 10           #    1 * 11 = 11 <-
 6 * 9  = 54           #    6 * 10 = 60
 8 * 8  = 64           #    8 *  9 = 72
@@ -16,6 +19,7 @@ CPF = 168.995.350-09
 11 > 9 = 0            #
 Digito 1 = 0          #   Digito 2 = 9
 """
+
 
 
 # Loop infinito
@@ -48,9 +52,9 @@ while True:
 
     
     if cpf == novo_cpf and not sequencia:
-        print('Válido')
+        print('CPF Válido')
     else:
-        print('Inválido')
+        print('CPF Inválido')
         
         
         
