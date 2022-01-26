@@ -21,7 +21,6 @@ Digito 1 = 0          #   Digito 2 = 9
 """
 
 
-
 # Loop infinito
 while True:
     # cpf = '16899535009'
@@ -52,12 +51,9 @@ while True:
 
     
     if cpf == novo_cpf and not sequencia:
-        print('CPF Válido')
+        print('CPF é Válido')
     else:
-        print('CPF Inválido')
+        print('CPF é Inválido')
         
         
         
-        
-        
-
