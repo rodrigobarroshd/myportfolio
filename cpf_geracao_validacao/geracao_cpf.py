@@ -1,6 +1,8 @@
 from random import randint
-numero = str(randint(100000000, 999999999))
 
+# Gerador de CPF
+
+numero = str(randint(100000000, 999999999))
 
 
 novo_cpf = numero             
