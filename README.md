@@ -1,1 +1,1 @@
-# pythonbeginner
+# JavaScript Course
