@@ -25,9 +25,9 @@ const Head = () => {
       <meta name='keywords' content={meta.keywords} />
       <meta property='og:url' content={`https://jeandv.vercel.app${pathname}`} />
       <link rel='canonical' href={`https://jeandv.vercel.app${pathname}`} />
-      <link rel='me' href='mailto:jeanrdev@gmail.com' />
+      <link rel='me' href='mailto:brodrigo87@gmail.com' />
       <meta property='og:type' content={meta.type} />
-      <meta property='og:site_name' content='Jean Rondón' />
+      <meta property='og:site_name' content='Rodrigo Barros' />
       <meta property='og:description' content={meta.description} />
       <meta property='og:title' content={meta.title} />
       <meta name='twitter:card' content='summary_large_image' />

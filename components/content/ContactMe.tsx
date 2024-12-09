@@ -18,7 +18,7 @@ const ContactMe = () => {
                 Email
               </h6>
               <p className='text-base mt-2 text-gray-400'>
-                jeanrdev@gmail.com
+                brodrigo87@gmail.com
               </p>
             </div>
           {/* </a> */}
@@ -29,7 +29,7 @@ const ContactMe = () => {
                 Phone
               </h6>
               <p className='text-base mt-2 text-gray-400'>
-                +58 4122901679
+                +55 71981874572
               </p>
             </div>
           {/* </a> */}

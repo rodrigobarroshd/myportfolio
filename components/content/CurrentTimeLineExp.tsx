@@ -21,29 +21,30 @@ const CurrentTimeLineExp = () => {
   return (
     <Timeline>
 
-      <TimelineEvent active>
+      {/* <TimelineEvent active>
 
-        <TimelineEvent.Title><a href='https://www.ia.com.mx' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>IA Interactive</a> | Mar. 2023 - {calculateDuration('2023-03-01', true)}</TimelineEvent.Title>
+        <TimelineEvent.Title><a href='https://www.ia.com.mx' target='_blank' rel='noopener noreferrer' className='hover:text-white hover:underline transition-all ease'>Progema Brasil</a> | Mar. 2023 - {calculateDuration('2023-03-01', true)}</TimelineEvent.Title>
 
         <TimelineEvent.Description>
           Frontend development and maintenance of projects implementing agile methodologies (Kanban in Jira) and best practices such as SOLID principles, pixel perfect, clean architecture, clean code using Jira, SCRUM practices, Git, GitFlow practices, Bitbucket, HTML, CSS, Pug, SASS, Tailwind, JavaScript, TypeScript, React, Next.js, Redux, Zustand, Jest and using microfrontends and Storybook to facilitate the use of reusable components.
         </TimelineEvent.Description>
 
-      </TimelineEvent>
+      </TimelineEvent> */}
 
       <TimelineEvent>
 
-        <TimelineEvent.Title>Freelance | Feb. 2022 - Mar. 2023</TimelineEvent.Title>
+        <TimelineEvent.Title>Progema Brasil | Feb. 2023 - Mar. 2024</TimelineEvent.Title>
 
         <TimelineEvent.Description>
-          Design and development of web pages applying agile methodologies, clean architecture, SOLID principles and pixel perfect in all projects, I have developed almost all types of projects from Landing pages, stores, blogs and dashboards.
+        Developed customized software and application solutions focused on meeting specific customer needs. We developed and implemented a system for the "Beverator", an innovative device that serves drinks automatically through an application. 
+        We implemented scalable functionalities using MQTT, Cloud Code and other technologies, integrating IoT systems to optimize operations, such as serving beer in an automated way. Collaborated on innovative projects, working on requirements analysis, development and delivery of customized technological solutions We created web applications and systems focused on user experience, ensuring performance and efficiency. Implemented a CMS for product maintenance, allowing dynamic management of the beverage catalog
         </TimelineEvent.Description>
 
       </TimelineEvent>
 
       <TimelineEvent last>
 
-        <TimelineEvent.Title>Studio Iluxion | May. 2022 - Jul. 2022</TimelineEvent.Title>
+        <TimelineEvent.Title>Freelance | May. 2020 - Jul. 2023</TimelineEvent.Title>
 
         <TimelineEvent.Description>
           Web designer and responsive web designer on projects using Figma, HTML, CSS, SCSS, SASS, Bootstrap, JavaScript, jQuery implementing SCRUM, pixel perfect and clean code.
