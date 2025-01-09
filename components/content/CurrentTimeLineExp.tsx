@@ -33,11 +33,15 @@ const CurrentTimeLineExp = () => {
 
       <TimelineEvent>
 
-        <TimelineEvent.Title>Progema Brasil | Feb. 2023 - Mar. 2024</TimelineEvent.Title>
+        <TimelineEvent.Title>smartchip | Feb. 2024 - Current</TimelineEvent.Title>
 
         <TimelineEvent.Description>
-        Developed customized software and application solutions focused on meeting specific customer needs. We developed and implemented a system for the "Beverator", an innovative device that serves drinks automatically through an application. 
-        We implemented scalable functionalities using MQTT, Cloud Code and other technologies, integrating IoT systems to optimize operations, such as serving beer in an automated way. Collaborated on innovative projects, working on requirements analysis, development and delivery of customized technological solutions We created web applications and systems focused on user experience, ensuring performance and efficiency. Implemented a CMS for product maintenance, allowing dynamic management of the beverage catalog
+        Developed customized software and application solutions focused on meeting specific customer needs.
+         We developed and implemented a system for the "Beverator", an innovative device that serves drinks automatically through an application. 
+        We implemented scalable functionalities using MQTT, Cloud Code and other technologies, integrating IoT systems to optimize operations, such
+         as serving beer in an automated way. Collaborated on innovative projects, working on requirements analysis, development and delivery of customized
+          technological solutions We created web applications and systems focused on user experience, ensuring performance and efficiency. Implemented a CMS
+           for product maintenance, allowing dynamic management of the beverage catalog
         </TimelineEvent.Description>
 
       </TimelineEvent>

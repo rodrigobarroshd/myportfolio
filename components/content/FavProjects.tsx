@@ -82,49 +82,18 @@ const favProjects = [
       'https://upload.wikimedia.org/wikipedia/commons/c/c8/Very_Black_screen.jpg',
     title: 'AiDrink App',
     category: 'Flutter',
-    repo: 'https://github.com/jeandv',
+    repo: 'https://github.com/rodrigobarroshd',
     link: 'https://aidrink.com.br'
   },
   {
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Very_Black_screen.jpg',
-    title: 'OpenJira',
-    category: 'Next.js - Context - TypeScript - Node - MongoDB - MaterialUI',
-    repo: 'https://github.com/jeandv/open-jira',
-    link: 'https://open-jira-jeandv.vercel.app'
-  },
-  {
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Very_Black_screen.jpg',
-    title: 'Github Issues',
-    category: 'React - React Query - TypeScript - Bootstrap',
-    repo: 'https://github.com/jeandv/react-query',
-    link: 'https://github.com/jeandv/react-query'
-  },
-  {
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Very_Black_screen.jpg',
-    title: 'ISR Pokedex',
-    category: 'Next.js - TypeScript - NextUI - Pokeapi',
-    repo: 'https://github.com/jeandv/pokedex-next',
-    link: 'https://pokedex-jeandv.vercel.app'
-  },
-  {
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Very_Black_screen.jpg',
-    title: 'MisPelis',
-    category: 'React - JavaScript - CSS',
-    repo: 'https://mispelis.vercel.app',
-    link: 'https://github.com/jeandv/mispelis'
-  },
-  {
-    image:
-      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Very_Black_screen.jpg',
-    title: 'Gixfy',
-    category: 'React - JavaScript - Jest - Wouter',
-    repo: 'https://gixfy.vercel.app',
+      'https://i.postimg.cc/J7NFBpmH/imagem-2025-01-09-141420291.png',
+    title: 'AiDrink - CMS',
+    category: 'Next.js - Context - TypeScript - Node - Firebase - MaterialUI',
+    repo: 'https://github.com/rodrigobarroshd',
     link: 'https://github.com/rodrigobarroshd'
-  }
+  },
+  
 ];
 
 const myGithub = 'https://github.com/rodrigobarroshd';
