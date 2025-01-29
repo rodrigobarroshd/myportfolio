@@ -79,9 +79,9 @@ const Card = ({ image, title, category, repo, link }: CardProps) => {
 const favProjects = [
   {
     image:
-      'https://upload.wikimedia.org/wikipedia/commons/c/c8/Very_Black_screen.jpg',
+      'https://i.imghippo.com/files/XYo3330TA.jpeg',
     title: 'AiDrink App',
-    category: 'Flutter',
+    category: 'Flutter - Firebase',
     repo: 'https://github.com/rodrigobarroshd',
     link: 'https://aidrink.com.br'
   },
@@ -90,6 +90,14 @@ const favProjects = [
       'https://i.postimg.cc/J7NFBpmH/imagem-2025-01-09-141420291.png',
     title: 'AiDrink - CMS',
     category: 'Next.js - Context - TypeScript - Node - Firebase - MaterialUI',
+    repo: 'https://github.com/rodrigobarroshd',
+    link: 'https://github.com/rodrigobarroshd'
+  },
+  {
+    image:
+      'https://i.imghippo.com/files/cAk7458NIE.png',
+    title: 'Tread - Sneakers Store',
+    category: 'React Native - Context - TypeScript - Node - Firebase ',
     repo: 'https://github.com/rodrigobarroshd',
     link: 'https://github.com/rodrigobarroshd'
   },
